@@ -25,4 +25,4 @@ if response.status_code != 204:
         print("Error. The website does not support json content\n")
         website_data = response.text
 
-print(website_data)
+#print(website_data)
